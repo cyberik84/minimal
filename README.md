@@ -1,2 +1,2 @@
-# minimal
- 
+# samples
+samples for strudel
